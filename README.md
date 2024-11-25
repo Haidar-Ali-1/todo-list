@@ -1,7 +1,7 @@
 # To-Do List App
 A simple To-Do List application created using HTML, CSS, and JavaScript. This application allows users to manage their tasks by adding, marking as complete, and deleting tasks. The tasks are saved to localStorage, ensuring they persist across page reloads.
 
-#Features
+# Features
 Add new tasks to the list
 Mark tasks as complete or incomplete
 Delete tasks from the list
@@ -9,24 +9,24 @@ Tasks are saved to localStorage and persist across page reloads
 Screenshot
 To-Do List App Screenshot
 
-#Getting Started
+# Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine.
 
-#Prerequisites
+# Prerequisites
 You will need a web browser to view the application.
 
-#Installation
+# Installation
 Clone the Repository:
 
 git clone https:
 Navigate to the Project Directory:
 
-#cd todo-app
+# cd todo-app
 Open index.html in Your Web Browser:
 
 Simply double-click on index.html to view the application.
 
-#Usage
+# Usage
 Add a Task:
 
 Type the task into the input field.
