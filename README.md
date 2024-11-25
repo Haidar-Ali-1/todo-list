@@ -28,19 +28,19 @@ Simply double-click on index.html to view the application.
 
 # Usage
 
-Add a Task:
+1 Add a Task:
 
-Type the task into the input field.
-Click the "Add" button to add the task to the list.
+* Type the task into the input field.
+* Click the "Add" button to add the task to the list.
 
-Complete a Task:
+2 Complete a Task:
 
-Click on a task to mark it as completed. The task will be crossed out.
+* Click on a task to mark it as completed. The task will be crossed out.
 
-Delete a Task:
+3 Delete a Task:
 
-Click the delete (×) button next to a task to remove it from the list.
+* Click the delete (×) button next to a task to remove it from the list.
 
-Refresh the Page:
+4 Refresh the Page:
 
-Tasks will remain on the list due to localStorage.
+* Tasks will remain on the list due to localStorage.
