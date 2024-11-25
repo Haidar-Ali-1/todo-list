@@ -5,7 +5,7 @@ A simple To-Do List application created using HTML, CSS, and JavaScript. This ap
 * Add new tasks to the list
 * Mark tasks as complete or incomplete
 * Delete tasks from the list
-* Tasks are saved to $ localStorage $ and persist across page reloads
+* Tasks are saved to % localStorage % and persist across page reloads
 Screenshot
 To-Do List App Screenshot.png
 
