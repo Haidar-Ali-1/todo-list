@@ -18,7 +18,7 @@ You will need a web browser to view the application.
 # Installation
 Clone the Repository:
 
-git clone https:
+git clone https: https://haidar-ali-1.github.io/todo-list/
 Navigate to the Project Directory:
 
 # cd todo-app
